@@ -2,3 +2,4 @@ my-app\package-lock.json
 my-app\package.json
 my-app\.env
 my-app\node_modules
+node_modules
